@@ -15,7 +15,6 @@ Source:		ftp://ftp.perl.org/pub/CPAN/modules/by-module/DBI/%{module}-%{version}.
 BuildRequires:	perl(URI)
 BuildArch: noarch
 
-Buildroot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 
 %description
 A library to magically access to file w/o carry the method
