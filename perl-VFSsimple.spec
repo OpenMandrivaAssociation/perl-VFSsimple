@@ -1,7 +1,7 @@
 %define module	VFSsimple
 %define name	perl-%{module}
 %define version	0.03
-%define release	%mkrel 5
+%define release	%mkrel 6
 
 Summary:	A library to magically access to file w/o carry the method
 Name:		%{name}
