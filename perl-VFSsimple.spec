@@ -3,7 +3,7 @@
 Summary:	A library to magically access to file w/o carry the method
 Name:		perl-%{module}
 Version:	0.03
-Release:	8
+Release:	9
 License:	WTFPL
 Group:		Development/Perl
 URL:		http://nanardon.zarb.org/darcsweb/darcsweb.cgi?r=VFSsimple;a=summary
