@@ -8,6 +8,7 @@ License:	WTFPL
 Group:		Development/Perl
 URL:		https://nanardon.zarb.org/darcsweb/darcsweb.cgi?r=VFSsimple;a=summary
 Source:		ftp://ftp.perl.org/pub/CPAN/modules/by-module/DBI/%{module}-%{version}.tar.gz
+BuildRequires:	make
 BuildRequires:	perl-devel
 BuildRequires:	perl(URI)
 BuildArch: noarch
